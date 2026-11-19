@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 48" width="248" height="48" role="img" aria-label="DIY LED Kits">
+  <title>DIY LED Kits, monochrome white</title>
+  <style>@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;display=swap');</style>
+  <rect x="6" y="8" width="16" height="8" rx="2" fill="#F3EFE7"/>
+  <rect x="6" y="20" width="24" height="8" rx="2" fill="#F3EFE7"/>
+  <rect x="6" y="32" width="36" height="8" rx="2" fill="#F3EFE7"/>
+  <text x="62" y="33" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="27" letter-spacing="-1.1" fill="#F3EFE7"><tspan font-weight="700">DIY</tspan><tspan font-weight="500" dx="7">LED Kits</tspan></text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 128" width="160" height="128" role="img" aria-label="DIY LED Kits">
+  <title>DIY LED Kits stacked lockup</title>
+  <style>@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;display=swap');</style>
+  <defs>
+    <linearGradient id="ls-g" x1="56" y1="0" x2="104" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F5A524"/>
+      <stop offset="1" stop-color="#4FE3D6"/>
+    </linearGradient>
+    <filter id="ls-b" x="-50%" y="-150%" width="220%" height="400%"><feGaussianBlur stdDeviation="2.6"/></filter>
+  </defs>
+  <g filter="url(#ls-b)" opacity="0.6">
+    <ellipse cx="78" cy="14" rx="6" ry="3.2" fill="#4FE3D6"/>
+    <ellipse cx="89" cy="30" rx="6" ry="3.2" fill="#4FE3D6"/>
+    <ellipse cx="105" cy="46" rx="6" ry="3.2" fill="#4FE3D6"/>
+  </g>
+  <rect x="56" y="8" width="21" height="10" rx="2.5" fill="url(#ls-g)"/>
+  <rect x="56" y="24" width="32" height="10" rx="2.5" fill="url(#ls-g)"/>
+  <rect x="56" y="40" width="48" height="10" rx="2.5" fill="url(#ls-g)"/>
+  <text x="80" y="90" text-anchor="middle" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="26" letter-spacing="-1" fill="#F3EFE7" font-weight="700">DIY</text>
+  <text x="80" y="114" text-anchor="middle" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="18" letter-spacing="-0.4" fill="#A9A69E" font-weight="500">LED Kits</text>
+</svg>

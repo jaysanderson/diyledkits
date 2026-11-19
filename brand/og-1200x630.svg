@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="DIY LED Kits. Hidden light for the furniture you already own.">
+  <title>DIY LED Kits social card</title>
+  <style>@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;family=IBM+Plex+Sans:wght@400;500&amp;display=swap');</style>
+  <defs>
+    <linearGradient id="og-g" x1="96" y1="0" x2="240" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F5A524"/>
+      <stop offset="1" stop-color="#4FE3D6"/>
+    </linearGradient>
+    <filter id="og-b" x="-50%" y="-100%" width="220%" height="300%"><feGaussianBlur stdDeviation="26"/></filter>
+    <filter id="og-s" x="-50%" y="-150%" width="220%" height="400%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <rect width="1200" height="630" fill="#0E0F12"/>
+  <!-- glow bleed off the mark, the one effect on the card -->
+  <g opacity="0.5" filter="url(#og-b)">
+    <ellipse cx="300" cy="190" rx="150" ry="70" fill="#4FE3D6"/>
+  </g>
+  <g filter="url(#og-s)" opacity="0.6">
+    <ellipse cx="166" cy="112" rx="18" ry="9" fill="#4FE3D6"/>
+    <ellipse cx="202" cy="160" rx="18" ry="9" fill="#4FE3D6"/>
+    <ellipse cx="256" cy="208" rx="18" ry="9" fill="#4FE3D6"/>
+  </g>
+  <rect x="96" y="96" width="64" height="32" rx="8" fill="url(#og-g)"/>
+  <rect x="96" y="144" width="96" height="32" rx="8" fill="url(#og-g)"/>
+  <rect x="96" y="192" width="144" height="32" rx="8" fill="url(#og-g)"/>
+  <text x="96" y="352" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="#F3EFE7">Hidden light for the</text>
+  <text x="96" y="436" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="#F3EFE7">furniture you already own.</text>
+  <text x="96" y="508" font-family="'IBM Plex Sans', 'Segoe UI', system-ui, sans-serif" font-size="26" fill="#A9A69E">Concealed, music-reactive LED kits. 12 V, plug-in, no electrician. Concept store.</text>
+  <text x="96" y="566" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="26" letter-spacing="-0.8" fill="#F3EFE7"><tspan font-weight="700">DIY</tspan><tspan font-weight="500" fill="#A9A69E" dx="8">LED Kits</tspan><tspan fill="#4FE3D6" font-weight="500" dx="28">diyledkits.com</tspan></text>
+</svg>
